@@ -155,7 +155,7 @@
     { id: "altbau", titel: "Treppe im Altbau", info: "Holzstufen an der Backsteinwand", n: 6, f: "treppen" },
     { id: "gaestewc", titel: "Gäste-WC", info: "Waschtisch auf Baumkante", n: 5, f: "innen", cls: "gross" },
     { id: "einbauschrank", titel: "Weißer Einbauschrank", info: "Passgenau unter der Treppe", n: 5, f: "innen" },
-    { id: "gelaender", titel: "Treppengeländer", info: "Massivholz, gerade und gewendelt", n: 7, f: "treppen" },
+    { id: "gelaender", titel: "Treppengeländer", info: "Holzgeländer, gerade und gewendelt", n: 7, f: "treppen" },
     { id: "bad", titel: "Hochglanz Bad", info: "Weiße Fronten, viel Licht", n: 6, f: "innen" },
     { id: "treppe", titel: "Weitere Treppen", info: "Holz, auch mit Beton, Glas oder Stein", n: 13, f: "treppen", cls: "gross breit", titelbild: 3 },
     { id: "moebel", titel: "Unikate und Möbel", info: "Tische, Hocker, Schalen, Schränke", n: 11, f: "moebel", cls: "gross", titelbild: 3 },
